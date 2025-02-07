@@ -1,10 +1,10 @@
-##Hawaii Climate API
+**Hawaii Climate API**
 
-#Overview
+**Overview**
 
 This project is a Flask-based API that serves climate data from a SQLite database containing weather observations from various stations in Hawaii. The API provides endpoints for retrieving precipitation data, station lists, temperature observations, and calculated temperature statistics for specific date ranges.
 
-#Features
+**Features**
 
 Precipitation Data: Retrieve the last 12 months of precipitation records.
 
@@ -14,7 +14,7 @@ Temperature Observations: Access the last 12 months of temperature observations 
 
 Temperature Statistics: Get minimum, average, and maximum temperatures for a given start date or date range.
 
-#Technologies Used
+**Technologies Used**
 
 Python
 
@@ -26,7 +26,7 @@ SQLite (Database containing climate data)
 
 Pandas (For data manipulation)
 
-#API Endpoints
+**API Endpoints**
 
 1. Landing Page
 
